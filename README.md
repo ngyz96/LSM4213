@@ -1,5 +1,5 @@
 # Welcome
-## Systems neuroscience and artificial intelligence
+## Systems Neuroscience and Artificial Intelligence
 This repo contains the output of LSM4213 practical 2.
 
 -[Digit classification website](https://ngyz96.github.io/LSM4213.github.io/digit_classification_website/tfjs.html)
